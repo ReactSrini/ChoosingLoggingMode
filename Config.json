@@ -1,0 +1,9 @@
+{
+    "logMode"      : 1,
+    "logFileType"  : "file" ,
+    "folderPath"   : "C:/Logging" ,
+    "logFileName"  : "Logger.log",
+    "logLevel"     : "info",
+    "maxLogSize"   : 1000000, 
+    "backups"      : 10
+}
